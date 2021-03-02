@@ -7,7 +7,7 @@
 * The aim of the player is to survive as long as possible by jumping on the moving platforms.
 * The objectives of this homework were:
 	* Learning how to create a simple scene using 3D transformations, such as translation, rotation and scaling
-	* Getting used to rendering meshes intro the scene
+	* Getting used to rendering meshes into the scene
 	* Learning how to add shader files and link them in the application
 	* Implementing first-person and third-person cameras
 
